@@ -1,4 +1,3 @@
-# 2D-matrix (4*4)
+# 2D-matrix (4*4) with tabular form 
 
-with tabular form
-Calculating sum of each row, each collum, and diagonals.
+Calculating: sum of each row, each collum, and diagonals.
